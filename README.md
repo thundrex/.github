@@ -1,2 +1,3 @@
-# .github
-Lego for web
+# Lego for web
+
+### More information coming soon
